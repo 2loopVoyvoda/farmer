@@ -112,8 +112,8 @@ options:
 - pipenv (`pip install pipenv`)
 
 ### Step by step
-1. Clone this repo - `git clone https://github.com/LeagueOfPoro/EsportsCapsuleFarmer.git`
-2. Move to the directory -  `cd EsportsCapsuleFarmer`
+1. Clone this repo - `git clone https://github.com/2loopVoyvoda/farmer`
+2. Move to the directory -  `cd farmer`
 3. Install the Python virtual environment - `pipenv install`
 4. (Optional) Edit the configuration file
 5. Run the tool - `pipenv run python ./main.py`

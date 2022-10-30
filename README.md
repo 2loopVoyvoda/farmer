@@ -1,4 +1,4 @@
-# League of Poro's Esports Capsule Farmer
+# 2loopVoyvoda's Esports Capsule Farmer
 
 Are you tired of watching professional League of Legends games? Do you watch only for the drops?
 
@@ -14,20 +14,11 @@ This tool makes the Chrome browser watch the matches for you!
 - Checks for the Rewards check mark
 - Experimental support for Firefox and Edge
 
-### Video Tutorial
-
-_(Outdated, will be updated in the future)_
-
-[![Tutorial](https://img.youtube.com/vi/FCk6MoSjt5w/0.jpg)](https://www.youtube.com/watch?v=FCk6MoSjt5w)
-
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/LeagueOfPoro/EsportsCapsuleFarmer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/LeagueOfPoro/EsportsCapsuleFarmer/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/LeagueOfPoro/EsportsCapsuleFarmer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/LeagueOfPoro/EsportsCapsuleFarmer/context:python)
-
 ## Installation (simple)
 
 **⚠️ This project utilizes the [Google Chrome browser](https://www.google.com/chrome/) by default. However, there's an experimental support for Firefox and Edge (see [Configuration](#configuration) or [CLI](#cli) if you want to use alternative browsers). Please make sure you have the selected browser installed!**
 
-1. Download and run the latest CapsuleFarmer.zip from [Releases tab](https://github.com/LeagueOfPoro/EsportsCapsuleFarmer/releases)
+1. Download and run the latest CapsuleFarmer.zip from [Releases tab]
 2. Extract the archive
 3. (Optional) Edit the configuration file with a text editor (e.g. Notepad) - see [Configuration](#configuration) for details
 4. Run `CapsuleFarmer.exe`
@@ -131,8 +122,6 @@ options:
 1.  `pipenv install --dev`
 2.  `pipenv run pyinstaller -F --icon=poro.ico ./main.py`
 
-## Forks
-[Dockerized version for Raspbery Pi](https://github.com/kacperkr90/EsportsCapsuleFarmer) by [kacperkr90](https://github.com/kacperkr90)
 
 ## Support my work
-<a href='https://www.youtube.com/channel/UCwgpdTScSd788qILhLnyyyw/join' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://share.leagueofporo.com/yt_member.png' border='0' alt='Become a channel member on YouTube' />
+<a href='https://www.youtube.com/channel/UCr3L91rbsSEg15FfQbOlOzg' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://share.leagueofporo.com/yt_member.png' border='0' alt='Become a channel member on YouTube' />
